@@ -1,0 +1,11 @@
+﻿State,Expected_Mean_Power,Appliance_Combination
+1,0,None
+2,9,1_CFL
+3,14,1_Fan
+4,18,2_CFL
+5,23,1_Fan_1_CFL
+6,27,3_CFL
+7,32,2_CFL_1_Fan
+8,36,4_CFL
+9,41,3_CFL_1_Fan
+10,50,4_CFL_1_Fan
